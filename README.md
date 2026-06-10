@@ -55,7 +55,7 @@ https://www.python.org/downloads/
 
 While installing, make sure to check:
 
-✔ Add Python to PATH
+Add Python to PATH
 
 ### 2. Clone the Repository
 
